@@ -1,0 +1,16 @@
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\bin\Debug\net10.0\S 3.exe
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\bin\Debug\net10.0\S 3.deps.json
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\bin\Debug\net10.0\S 3.runtimeconfig.json
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\bin\Debug\net10.0\S 3.runtimeconfig.dev.json
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\bin\Debug\net10.0\S 3.dll
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\bin\Debug\net10.0\S 3.pdb
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\obj\Debug\net10.0\S 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\obj\Debug\net10.0\S 3.AssemblyInfoInputs.cache
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\obj\Debug\net10.0\S 3.AssemblyInfo.cs
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\obj\Debug\net10.0\S 3.csproj.CoreCompileInputs.cache
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\obj\Debug\net10.0\S 3.dll
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\obj\Debug\net10.0\refint\S 3.dll
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\obj\Debug\net10.0\S 3.pdb
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\obj\Debug\net10.0\S 3.genruntimeconfig.cache
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\obj\Debug\net10.0\ref\S 3.dll
+C:\Users\ziad mahomoud\source\repos\S 3\S 3\obj\Debug\net10.0\S 3.csproj.Up2Date
